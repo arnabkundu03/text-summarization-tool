@@ -29,10 +29,10 @@ cd text-summarization-tool/text-summarization-tool
 ### 2. Set Up a Virtual Environment (Optional but Recommended)
 
 ```python -m venv venv```
-# Activate the virtual environment:
-# On Windows:
+Activate the virtual environment:
+On Windows:
 ```venv\Scripts\activate```
-# On macOS/Linux:
+On macOS/Linux:
 ```source venv/bin/activate```
 
 ### 3. Install Required Packages
